@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://plancenzer.github.io/sitemap
+Sitemap: https://plancenzer.github.io/app/sitemap
+Sitemap: https://plancenzer.github.io/assets/sitemap
+Sitemap: https://plancenzer.github.io/css/sitemap
+Sitemap: https://plancenzer.github.io/includes/sitemap
+Sitemap: https://plancenzer.github.io/item/sitemap
+Sitemap: https://plancenzer.github.io/src/sitemap
